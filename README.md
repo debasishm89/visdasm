@@ -8,4 +8,4 @@ Video Demo
 ==========
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://edudemic.com/wp-content/uploads/2013/01/youtube.png)](http://www.youtube.com/watch?v=tBLljvYVwpo&feature=youtu.be)
