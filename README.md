@@ -3,6 +3,11 @@ visdasm
 
 Building Assembly Control Flow Graph at Runtime Using Python
 
+Blog Post
+=========
+
+http://www.debasish.in/2014/02/building-assembly-control-flow-graphcfg.html
+
 
 Video Demo
 ==========
