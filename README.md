@@ -3,6 +3,11 @@ visdasm
 
 Building Assembly Control Flow Graph at Runtime Using Python
 
+During this project follwing libdasm bug was found and reported
+===============================================================
+
+https://code.google.com/p/libdasm/issues/detail?id=1
+
 Blog Post
 =========
 
