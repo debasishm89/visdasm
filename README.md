@@ -7,11 +7,13 @@ During this project follwing libdasm bug was found and reported
 ===============================================================
 
 https://code.google.com/p/libdasm/issues/detail?id=1
+https://groups.google.com/forum/#!topic/libdasm/sRV-ey0BFVo
 
 Blog Post
 =========
 
 http://www.debasish.in/2014/02/building-assembly-control-flow-graphcfg.html
+
 
 
 Video Demo
